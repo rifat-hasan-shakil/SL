@@ -1,0 +1,13 @@
+timestamp,cpu_percent,memory_percent_used,memory_used_mb,memory_total_mb,memory_available_mb
+2025-05-29 08:53:41,47.00,93.30,7024.05,7528.25,504.20
+2025-05-29 08:53:46,12.90,91.50,6888.23,7528.25,640.02
+2025-05-29 08:53:52,14.40,91.10,6855.79,7528.25,672.46
+Monitoring stopped by user.
+2025-05-29 17:03:02 - INFO - Starting system monitoring. Interval: 5s, Duration: 60s
+2025-05-29 17:03:03 - INFO - CPU Usage: 37.10% | Memory Usage: 77.40% (5830.45MB Used / 7528.25MB Total)
+2025-05-29 17:03:08 - INFO - CPU Usage: 15.70% | Memory Usage: 78.10% (5880.15MB Used / 7528.25MB Total)
+2025-05-29 17:03:14 - INFO - CPU Usage: 8.70% | Memory Usage: 77.60% (5843.23MB Used / 7528.25MB Total)
+2025-05-29 17:03:19 - INFO - CPU Usage: 6.10% | Memory Usage: 77.50% (5832.59MB Used / 7528.25MB Total)
+2025-05-29 17:03:25 - INFO - CPU Usage: 6.90% | Memory Usage: 77.40% (5828.62MB Used / 7528.25MB Total)
+2025-05-29 17:03:30 - INFO - CPU Usage: 5.40% | Memory Usage: 77.30% (5818.13MB Used / 7528.25MB Total)
+2025-05-29 17:03:36 - INFO - CPU Usage: 9.30% | Memory Usage: 77.20% (5808.29MB Used / 7528.25MB Total)
